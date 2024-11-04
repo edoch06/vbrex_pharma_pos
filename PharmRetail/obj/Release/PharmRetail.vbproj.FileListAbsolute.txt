@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\bin\Release\PharmRetail.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\bin\Release\PharmRetail.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\bin\Release\PharmRetail.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\obj\Release\PharmRetail.MDIBackend.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\obj\Release\PharmRetail.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\obj\Release\PharmRetail.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\obj\Release\PharmRetail.exe
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\obj\Release\PharmRetail.xml
+C:\Users\LENOVO\Documents\Visual Studio 2008\Projects\PharmRetail\PharmRetail\obj\Release\PharmRetail.pdb
